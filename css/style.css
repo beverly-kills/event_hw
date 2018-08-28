@@ -1,0 +1,19 @@
+html{
+    height: 100%;
+}
+
+body{
+    height: 100%;
+    background: midnightblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box{
+    height: 300px;
+    width: 500px;
+    padding: 20px;
+    background: #fff;
+    border-radius: 30px;
+}
